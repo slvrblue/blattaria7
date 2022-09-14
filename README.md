@@ -1,4 +1,4 @@
-<h1 align="left"> Anastasia Boshnyakovich</h1>
+<h1 align="left"> Anastasia</h1>
 
 - 👩‍💻 Core Stack: **Go, Python**. Mainly focused on Backend.
 - 💙 <a href="https://ambiguous-airmail-2ed.notion.site/Golang-92aed3d4360f469aad2a3ed1e40ba734"  target="blank"> My guide to preparing for interviews</a>
